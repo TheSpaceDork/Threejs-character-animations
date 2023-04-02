@@ -15,7 +15,7 @@ body {
 }
 .controls-wrapper {
   position: absolute !important;
-  bottom: 5px !important;
+  bottom: 20px !important;
   right: 5px !important;
   text-align: right;
   z-index: 999;
