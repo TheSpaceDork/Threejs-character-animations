@@ -13,7 +13,7 @@ export const LoadingScreen = ({ started, onStarted }) => {
         />
       </div>
       <div className="loadingScreen__board">
-        <h1 className="loadingScreen__title">Please help me!</h1>
+        <h1 className="loadingScreen__title">Test Demo</h1>
         <button
           className="loadingScreen__button"
           disabled={progress < 100}
