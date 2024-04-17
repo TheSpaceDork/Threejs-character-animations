@@ -10,7 +10,7 @@ export const LoadingScreen = ({ started, onStarted }) => {
           style={{
             width: `${progress}%`,
           }}
-        />
+        > <span className="progress-number">{progress}</span></div>
       </div>
       <div className="loadingScreen__board">
         <h1 className="loadingScreen__title">Test Demo</h1>
