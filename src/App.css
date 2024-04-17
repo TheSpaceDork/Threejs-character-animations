@@ -101,7 +101,7 @@ body {
   align-items: center;
 }
 .progress-number{
-  width: 30px;
+  width: 40px;
   font-weight: 600;
 }
 .loadingScreen__progress__value {
