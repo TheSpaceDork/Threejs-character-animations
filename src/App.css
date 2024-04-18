@@ -103,6 +103,7 @@ body {
 .progress-number{
   width: 40px;
   font-weight: 600;
+  margin-left: 25px;
 }
 .loadingScreen__progress__value {
   position: absolute;
